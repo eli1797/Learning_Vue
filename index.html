@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, intial-scale=1.0">
 	<title>Vue Tutorial</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
@@ -25,11 +26,16 @@
 					<li v-for="detail in details"> {{detail}}</li>
 				</ul>
 
-				<div v-for="variant in variants" :key="variant.variantId">
-					<p v-on:mouseover="updateProduct(variant.variantImage)">{{ variant.variantColor }}</p>
+				<div v-for="variant in variants" 
+					:key="variant.variantId" 
+					class="color-box" 
+					:style="{ backgroundColor: variant.variantColor }"
+				@mouseover="updateProduct(variant.variantImage)">
 				</div>
 
-				<button v-on:click="addToCart">Add to Cart</button>
+				<button v-on:click="addToCart" 
+					:disabled="inventory <= 0"
+					:class=" { disabledButton: inventory <= 0 } ">Add to Cart</button>
 
 				<div class="cart">
 					<p>Cart({{ cart }})</p>

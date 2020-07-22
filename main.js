@@ -22,6 +22,7 @@ var app = new Vue({
 	methods: {
 		addToCart: function () {
 			this.cart += 1;
+			this.inventory -= 1;
 		},
 		updateProduct: function(image_loc) {
 			this.image = image_loc;
