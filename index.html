@@ -26,7 +26,13 @@
 				</ul>
 
 				<div v-for="variant in variants">
-					<p>{{ variant.variantColor }}</p>
+					<p v-on:mouseover="updateProduct(variant.variantImage)">{{ variant.variantColor }}</p>
+				</div>
+
+				<button v-on:click="addToCart">Add to Cart</button>
+
+				<div class="cart">
+					<p>Cart({{ cart }})</p>
 				</div>
 			</div>
 		</div>
