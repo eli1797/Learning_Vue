@@ -1,4 +1,10 @@
 Vue.component('product', {
+	props: {
+		premium: {
+			type: Boolean,
+			required: true,
+		}
+	},
 	template: `
 		<div class="product">
 			<div class="product-image">
@@ -10,6 +16,7 @@ Vue.component('product', {
 				<p v-if="inventory > 10">In stock</p>
 				<p v-else-if="inventory <= 10 && inventory > 0">In stock. Only {{ inventory }} left!</p>
 				<p v-else>Out of stock</p>
+				<p v-show="premium">Premium user</p>
 
 				<ul>
 					<li v-for="detail in details"> {{detail}}</li>
@@ -82,6 +89,9 @@ Vue.component('product', {
 
 var app = new Vue({
 	el: '#app',
+	data: {
+		premium: true,
+	}
 	
 });
 
