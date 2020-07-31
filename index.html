@@ -4,19 +4,27 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, intial-scale=1.0">
 	<title>Vue Tutorial</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
+
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css">
 </head>
 <body>
 
-	<div class="nav-bar"></div>
+	<!-- .section -->
+	<section class="section">
+		<div class="container" id="app">
+			<nav class="breadcrumb" aria-label="breadcrumbs">
+				<ul>
+					<li><a href="#">Home</a></li>
+					<!-- <li class="is-active"><a href="#" aria-current="page">How to build a beautiful blog</a></li> -->
+				</ul>
+			</nav>
 
-	<div id="app">
-		<product :premium="premium" @add-to-cart="addToCart"></product>
-		<div class="cart">
-			<p>Cart({{ cart.length }})</p>
+			<p>Blog: {{ blog }}</p>
+
 		</div>
-
-	</div>
+	</section>
+	<!-- /.section -->
 
 	<!-- development version, includes helpful console warnings -->
 	<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
