@@ -149,6 +149,18 @@
 // 		}
 // 	}
 // })
+
+Vue.component('header-bar', {
+	template:`
+		<nav class="breadcrumb" aria-label="breadcrumbs">
+	      <ul>
+	        <li><a href="#">Volleyblog</a></li>
+	        <li v-show="!home" class="is-active"><a href="#" aria-current="page">How to build a beautiful blog</a></li>
+	      </ul>
+	    </nav>
+	`,
+})
+
 Vue.component('blog-post', {
 	template:`
 		<article class="message">
