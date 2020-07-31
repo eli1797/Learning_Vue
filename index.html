@@ -16,7 +16,7 @@
     <nav class="breadcrumb" aria-label="breadcrumbs">
       <ul>
         <li><a href="#">Home</a></li>
-        <!-- <li class="is-active"><a href="#" aria-current="page">How to build a beautiful blog</a></li> -->
+        <li v-show="!home" class="is-active"><a href="#" aria-current="page">How to build a beautiful blog</a></li>
       </ul>
     </nav>
 
@@ -108,6 +108,8 @@
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
         </div>
       </article>
+
+      <blog-post></blog-post>
 
       <!-- Second post -->
     </section>

@@ -149,6 +149,24 @@
 // 		}
 // 	}
 // })
+Vue.component('blog-post', {
+	template:`
+		<article class="message">
+		    <div class="message-header">
+		      <p>{{ title }}</p>
+		    </div>
+		    <div class="message-body">
+		      {{ text }}
+		    </div>
+	  	</article>
+	`,
+	data() {
+		return {
+			title: "Title placeholder",
+			text: "Hi! I'm a text placeholder",
+		}
+	}
+})
 
 
 var app = new Vue({
@@ -156,7 +174,7 @@ var app = new Vue({
 	data: {
 		// premium: true,
 		// cart: [],
-		blog: true,
+		home: true,
 	},
 	methods: {
 		// addToCart(id) {
