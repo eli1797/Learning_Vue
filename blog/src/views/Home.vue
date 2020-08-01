@@ -7,7 +7,7 @@
       <div class="container">
         <h1 class="title">Hello There</h1>
         <p class="subtitle">
-          I've been expecting you...
+          {{ this.randomPhrases[Math.floor(Math.random() * this.randomPhrases.length)] }}
         </p>
         <article class="message is-dark">
           <div class="message-body">
@@ -98,6 +98,11 @@ export default {
   name: 'Home',
   components: {
     // HelloWorld
-  }
+  },
+  data () {
+    return {
+      randomPhrases: ["Tall people only", "General Kenobi", "Don't believe everything here", "Motor learning nerds"]
+    }
+  },
 }
 </script>
