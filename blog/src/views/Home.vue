@@ -33,13 +33,13 @@
               </a>
             </div>
             <div class="tile is-parent">
-              <article class="tile is-child notification is-info">
-                <p class="title">Library</p>
-                <p class="subtitle">A digital garden</p>
+              <router-link class="tile is-child notification is-info" to="/garden">
+                <p class="title">Garden</p>
+                <p class="subtitle">A library of links</p>
                 <figure class="image is-hidden-mobile is-4by3">
                   <img src="../assets/undraw_Gardening.svg">
                 </figure>
-              </article>
+              </router-link>
             </div>
           </div>
           <div class="tile is-parent">
