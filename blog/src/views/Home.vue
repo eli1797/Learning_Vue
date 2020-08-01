@@ -44,7 +44,7 @@
           </div>
           <div class="tile is-parent">
             <router-link class="tile is-child notification is-danger" to="/about">
-              <p class="title">About me</p>
+              <p class="title">About</p>
               <p class="subtitle">I'm a software engineer by day, but at night...</p>
             </router-link>
           </div>
@@ -71,6 +71,27 @@
         </div>
       </div>
     </section>
+
+    <!-- All posts section -->
+    <!-- @Todo -->
+    <section class="section">
+      <h1 class="title">All Posts</h1>
+
+      <!-- Top post -->
+      <article class="message">
+        <div class="message-header">
+          <p>Hello World</p>
+        </div>
+        <div class="message-body">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
+        </div>
+      </article>
+
+      <blog-post></blog-post>
+
+      <!-- Second post -->
+    </section>
+
   </div>
 </template>
 
