@@ -11,7 +11,7 @@
         </p>
         <article class="message is-dark">
           <div class="message-body">
-            Welcome to my blog. 
+            Welcome to my blog. I've always been a little slow to things, so here I am about 25yrs late. Whatever. There's stuff for you read to about sports (mostly volleyball), technology, and learning.
           </div>
         </article>
       </div>
@@ -24,11 +24,11 @@
           <div class="tile">
             <div class="tile is-parent is-vertical">
               <a class="tile is-child notification is-primary" href="https://twitter.com/home">
-                <p class="title">Most recent post</p>
+                <p class="title">Recent</p>
                 <p class="subtitle">Post title</p>
               </a>
               <article class="tile is-child notification is-warning">
-                <p class="title">Contact me</p>
+                <p class="title">Contact</p>
                 <div class="level">
                   <div class="level-item has-text-centered">
                     <div>
@@ -55,7 +55,7 @@
             </div>
             <div class="tile is-parent">
               <article class="tile is-child notification is-info">
-                <p class="title">Animated Game Library</p>
+                <p class="title">Library</p>
                 <p class="subtitle">With an image</p>
                 <figure class="image is-4by3">
                   <img src="https://bulma.io/images/placeholders/640x480.png">
