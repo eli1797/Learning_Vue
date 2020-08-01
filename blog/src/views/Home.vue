@@ -65,8 +65,6 @@
                 <p class="menu-label">Embed Any Twitter Timelines</p>
                 <hr>
                 <p class="menu-label has-text-light">Embed any Instagram Galleries</p>
-                <hr>
-                <p class="menu-label">Embed any Instagram Galleries</p>
               </div>
             </div>
           </article>
