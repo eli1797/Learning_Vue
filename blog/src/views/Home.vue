@@ -29,7 +29,28 @@
               </a>
               <article class="tile is-child notification is-warning">
                 <p class="title">Contact me</p>
-                <p class="subtitle">Bottom tile</p>
+                <div class="level">
+                  <div class="level-item has-text-centered">
+                    <div>
+                      <a style="text-decoration: none;" href="https://twitter.com/EliBailey19">
+                        <span class="icon">
+                          <i class="fab fa-twitter mr-1"></i>
+                          Twitter
+                        </span>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="level-item has-text-centered">
+                    <div>
+                      <a style="text-decoration: none;" href="mailTo:elibailey97@protonmail.com">
+                        <span class="icon">
+                          <i class="fas fa-envelope mr-1"></i>
+                          Email
+                        </span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
               </article>
             </div>
             <div class="tile is-parent">
@@ -87,7 +108,7 @@
         </div>
       </article>
 
-      <blog-post></blog-post>
+      <!-- <blog-post></blog-post> -->
 
       <!-- Second post -->
     </section>
