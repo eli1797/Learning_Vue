@@ -23,42 +23,21 @@
         <div class="tile is-vertical is-8">
           <div class="tile">
             <div class="tile is-parent is-vertical">
-              <a class="tile is-child notification is-primary" href="https://twitter.com/home">
+              <a class="tile is-child notification is-primary" href="/">
                 <p class="title">Recent</p>
-                <p class="subtitle">Post title</p>
+                <p class="subtitle">Jump to newest post</p>
               </a>
-              <article class="tile is-child notification is-warning">
-                <p class="title">Contact</p>
-                <div class="level">
-                  <div class="level-item has-text-centered">
-                    <div>
-                      <a style="text-decoration: none;" href="https://twitter.com/EliBailey19">
-                        <span class="icon">
-                          <i class="fab fa-twitter mr-1"></i>
-                          Twitter
-                        </span>
-                      </a>
-                    </div>
-                  </div>
-                  <div class="level-item has-text-centered">
-                    <div>
-                      <a style="text-decoration: none;" href="mailTo:elibailey97@protonmail.com">
-                        <span class="icon">
-                          <i class="fas fa-envelope mr-1"></i>
-                          Email
-                        </span>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </article>
+              <a class="tile is-child notification is-warning" href="/">
+                <p class="title">Random</p>
+                <p class="subtitle">Go somewhere</p>
+              </a>
             </div>
             <div class="tile is-parent">
               <article class="tile is-child notification is-info">
                 <p class="title">Library</p>
-                <p class="subtitle">With an image</p>
-                <figure class="image is-4by3">
-                  <img src="https://bulma.io/images/placeholders/640x480.png">
+                <p class="subtitle">A digital garden</p>
+                <figure class="image is-hidden-mobile is-4by3">
+                  <img src="../assets/undraw_Gardening.svg">
                 </figure>
               </article>
             </div>
