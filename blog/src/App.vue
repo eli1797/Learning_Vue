@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <HeaderBar></HeaderBar>
+    <HeaderBar v-bind:breadcrumb="currentRoute"></HeaderBar>
     <router-view/>
   </div>
 </template>
@@ -14,6 +14,11 @@
     components: { 
       HeaderBar, 
     },
+    watch: {
+      '$route' () {
+        this.currentRoute = this.$route.meta.breadcrumb
+      } 
+    }
   }
   
 </script>
