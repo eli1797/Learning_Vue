@@ -36,7 +36,7 @@
               <router-link class="tile is-child notification is-info" to="/garden">
                 <p class="title">Garden</p>
                 <p class="subtitle">A library of links</p>
-                <figure class="image is-hidden-mobile is-4by3">
+                <figure class="image is-3by1 is-hidden-mobile">
                   <img src="../assets/undraw_Gardening.svg">
                 </figure>
               </router-link>
