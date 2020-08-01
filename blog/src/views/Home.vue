@@ -7,11 +7,11 @@
       <div class="container">
         <h1 class="title">Hello There</h1>
         <p class="subtitle">
-          Practice your (volleyball) reading skills!
+          I've been expecting you...
         </p>
         <article class="message is-dark">
           <div class="message-body">
-            Welcome to my blog. I've always been a little slow to things, so here I am about 25yrs late. Whatever. There's stuff for you read to about sports (mostly volleyball), technology, and learning.
+            Welcome to my blog. I've always been a little slow to things, so here I am about 25yrs after the first big blogs. Whatever. There's stuff for you read to about sports (mostly volleyball), technology, and learning.
           </div>
         </article>
       </div>
