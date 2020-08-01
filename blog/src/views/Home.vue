@@ -43,13 +43,10 @@
             </div>
           </div>
           <div class="tile is-parent">
-            <article class="tile is-child notification is-danger">
-              <p class="title">Wide tile</p>
-              <p class="subtitle">Aligned with the right tile</p>
-              <div class="content">
-                <!-- Content -->
-              </div>
-            </article>
+            <router-link class="tile is-child notification is-danger" to="/about">
+              <p class="title">About me</p>
+              <p class="subtitle">I'm a software engineer by day, but at night...</p>
+            </router-link>
           </div>
         </div>
         <div class="tile is-parent">
