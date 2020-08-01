@@ -3,14 +3,16 @@
     <section class="hero is-medium is-warning is-bold">
       <div class="hero-body">
         <div class="container">
-          <h1 class="title">Hello there</h1>
+          <h1 class="title">About</h1>
           <h2 class="subtitle">
-            This is the about me page
+            I'm a dude
           </h2>
 
           <div class="content">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
+              First year of High School I failed to make the baseball team. I agreed to try volleyball after being asked. The head volleyball coach had a policy that upperclassmen had to bring a freshman to tryouts. I was tall so I made it despite being clumsy. I loved it. I'm still loving it many years later.
+              <br><br>
+              Now I play and coach. Tall, skinny, and clumbsy me wasn't a very good player. Volleyball did not come naturally. Now, I'm grateful for those struggles. They sparked my interest in improving player developement, helped form my understanding of the game, and led me to coach. I write here to share my perspective and encourage discussion on these topics.
             </p>
           </div>
         </div>
