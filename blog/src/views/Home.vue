@@ -102,7 +102,7 @@ export default {
   data () {
     return {
       // Ideas to add: "Proceed with caution", "" 
-      randomPhrases: ["Tall people only", "General Kenobi", "Don't believe everything here", "Motor learning nerds"]
+      randomPhrases: ["Tall people only", "General Kenobi", "Motor learning nerds", "You are here", "Proceed with caution"]
     }
   },
 }
