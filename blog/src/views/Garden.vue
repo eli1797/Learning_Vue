@@ -10,7 +10,7 @@
 
           <div class="content">
             <p>
-              A digital garden is a living library of things on the web I find exciting, odd, or valuable.
+              A living library of things on the web I find exciting, odd, or valuable.
             </p>
           </div>
         </div>
