@@ -101,7 +101,7 @@ export default {
   },
   data () {
     return {
-      // Ideas to add: "Internetians... Webpeeps?", "Proceed with caution", "" 
+      // Ideas to add: "Proceed with caution", "" 
       randomPhrases: ["Tall people only", "General Kenobi", "Don't believe everything here", "Motor learning nerds"]
     }
   },

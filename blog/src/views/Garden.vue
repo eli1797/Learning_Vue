@@ -22,14 +22,19 @@
         <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
-              <p class="title">One</p>
-              <p class="subtitle">Subtitle</p>
+              <p class="title">Software</p>
+              <!-- <p class="subtitle">Subtitle</p> -->
+              <div class="content">
+                <p><a href="https://justgetflux.com/">Flux</a> A blue light blocker for Windows</p>
+              </div>
             </article>
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
-              <p class="title">Two</p>
-              <p class="subtitle">Subtitle</p>
+              <p class="title">Tools</p>
+              <div class="content">
+                <p><a href="https://roamresearch.com/">Roam Research</a> Associative notetaking</p>
+              </div>
             </article>
           </div>
           <div class="tile is-parent">
@@ -40,8 +45,10 @@
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
-              <p class="title">Four</p>
-              <p class="subtitle">Subtitle</p>
+              <p class="title">Books</p>
+              <div class="content">
+                <p><a href="https://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437">The War of Art</a> by Steven Pressfield</p>
+              </div>
             </article>
           </div>
         </div>
