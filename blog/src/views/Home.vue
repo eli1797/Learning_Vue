@@ -11,7 +11,7 @@
         </p>
         <article class="message is-dark">
           <div class="message-body">
-            Welcome to my blog. I write opinionated, but data-driven, thoughts on volleyball, learning, and technology.
+            Welcome to my blog. I write data-driven, opinionated reflections on volleyball, learning, and technology.
           </div>
         </article>
       </div>
