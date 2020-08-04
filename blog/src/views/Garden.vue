@@ -39,8 +39,10 @@
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
-              <p class="title">Three</p>
-              <p class="subtitle">Subtitle</p>
+              <p class="title">Videos</p>
+              <div class="content">
+                <p><a href="https://www.youtube.com/watch?v=3OoVWXiBVWo">Canada v. USA 2018 Nations League</a> My preferred viewing angle</p>
+              </div>
             </article>
           </div>
           <div class="tile is-parent">
@@ -52,7 +54,7 @@
             </article>
           </div>
         </div>
-        <div class="tile is-ancestor">
+        <!-- <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">One</p>
@@ -77,7 +79,7 @@
               <p class="subtitle">Subtitle</p>
             </article>
           </div>
-        </div>
+        </div> -->
       </div>
     </section>
     
