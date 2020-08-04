@@ -27,9 +27,9 @@
                 <p class="title">Recent</p>
                 <p class="subtitle">Jump to newest post</p>
               </a>
-              <a class="tile is-child notification is-warning" href="/">
+              <a class="tile is-child notification is-warning" href="https://en.wikipedia.org/wiki/Special:Random">
                 <p class="title">Random</p>
-                <p class="subtitle">Go somewhere</p>
+                <p class="subtitle">Go somewhere on Wikipedia</p>
               </a>
             </div>
             <div class="tile is-parent">
