@@ -23,10 +23,10 @@
         <div class="tile is-vertical is-8">
           <div class="tile">
             <div class="tile is-parent is-vertical">
-              <a class="tile is-child notification is-primary" href="/blog">
+              <router-link class="tile is-child notification is-primary" to="/blog">
                 <p class="title">Blog</p>
                 <p class="subtitle">Jump to newest post</p>
-              </a>
+              </router-link>
               <a class="tile is-child notification is-warning" href="https://en.wikipedia.org/wiki/Special:Random">
                 <p class="title">Random</p>
                 <p class="subtitle">Go somewhere on Wikipedia</p>
