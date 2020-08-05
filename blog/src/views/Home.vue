@@ -50,16 +50,16 @@
         <div class="tile is-parent">
           <article class="tile is-child notification is-success">
             <div class="content">
-              <!-- <p class="title">Favorites</p>
+              <p class="title">Favorites</p>
               <div class="content">
-                <router-link style="text-decoration: none;" to="/blog/#pure">The Two Fundamentals</router-link>
+                <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#pure'}">Fundamentals</router-link>
                 <hr>
-                <router-link style="text-decoration: none;" to="/blog/#pure">The Two Fundamentals</router-link>
+                <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#fundamentals'}">The Two Fundamentals</router-link>
                 <hr>
                 <p class="menu-label">Custom Spotlight Button</p>
                 <hr>
                 <p class="menu-label has-text-light">Sell products via Gumroad and Stripe</p>
-              </div> -->
+              </div>
               <p class="title">In progress</p>
               <div class="content">
                 <p>The Two Fundamentals</p>

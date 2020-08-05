@@ -50,7 +50,16 @@ Vue.use(VueRouter)
 
 const router = new VueRouter({
   routes: routes,
-  mode: "history"
+  mode: "history",
+  scrollBehavior (to, from, savedPosition) {
+    console.log(from, savedPosition, to.hash)
+    if (to.hash) {
+      return {
+        selector: to.hash
+      }
+    }
+  },  
+
 })
 
 export default router
