@@ -22,9 +22,8 @@
           </h2>
 
           <div class="content">
-            <p>
-              Currently I'm creating this site, learning about hydrogen fuel cells, and living in Utah. Weighing working another backend engineering position against building something new.
-            </p>
+            <p>I'm creating this site, learning about hydrogen fuel cells, and living in Utah.</p>
+            <p>Reading <em>Metaphors We Live By</em> from George Lakoff and Mark Johnson.</p>
           </div>
         </div>
       </div>
