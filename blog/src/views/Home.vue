@@ -50,7 +50,7 @@
             <div class="content">
               <p class="title">Posts</p>
               <div class="content">
-                <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#fundamentals'}">The Missing Fundamental</router-link>
+                <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#fundamentals'}">Hitting Fundamentals</router-link>
                 <hr>
                 <p>Challenges > drills (In progress)</p>
                 <hr>
