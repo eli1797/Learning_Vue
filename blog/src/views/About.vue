@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <section class="hero is-medium is-warning is-bold">
+    <section class="hero is-medium is-warning is-bold" style="margin-bottom: 10px">
       <div class="hero-body">
         <div class="container">
           <h1 class="title">About</h1>
