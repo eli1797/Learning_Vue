@@ -1,15 +1,20 @@
 <template>
   <div class="blog">
-    <section class="hero is-primary">
+<!--     <section class="hero is-primary">
       <div class="hero-body">
         <div class="container">
-          <h1 class="title">Blog</h1>
-          <h2 class="subtitle">
-            My writing
-          </h2>
+          
         </div>
       </div>
-    </section>
+    </section> -->
+
+  
+    <div class="container">
+      <h1 class="title">Blog</h1>
+      <h2 class="subtitle">
+        My writing
+      </h2>
+    </div>
 
     <section class="section">
       <div class="container notification">
