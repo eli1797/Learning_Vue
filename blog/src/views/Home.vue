@@ -50,17 +50,25 @@
         <div class="tile is-parent">
           <article class="tile is-child notification is-success">
             <div class="content">
-              <p class="title">Favorites</p>
+              <!-- <p class="title">Favorites</p>
               <div class="content">
-                <p class="menu-label"><a class="no-underline" href="/">Built-in Contact Form</a></p>
+                <router-link style="text-decoration: none;" to="/blog/#pure">The Two Fundamentals</router-link>
                 <hr>
-                <p class="menu-label has-text-light">Password Protect Pages</p>
+                <router-link style="text-decoration: none;" to="/blog/#pure">The Two Fundamentals</router-link>
                 <hr>
                 <p class="menu-label">Custom Spotlight Button</p>
                 <hr>
                 <p class="menu-label has-text-light">Sell products via Gumroad and Stripe</p>
+              </div> -->
+              <p class="title">In progress</p>
+              <div class="content">
+                <p>The Two Fundamentals</p>
                 <hr>
-                <p class="menu-label">Embed Any Twitter Timelines</p>
+                <p>Challenges > drills</p>
+                <hr>
+                <p>Just Culture</p>
+                <hr>
+                <p>Team Cognition</p>
               </div>
             </div>
           </article>
