@@ -82,6 +82,20 @@
         </div> -->
       </div>
     </section>
+
+    <FooterBar></FooterBar>
     
   </div>
 </template>
+
+<script>
+// @ is an alias to /src
+import FooterBar from '@/components/FooterBar.vue'
+
+export default {
+  name: 'Home',
+  components: {
+    FooterBar
+  },
+}
+</script>
