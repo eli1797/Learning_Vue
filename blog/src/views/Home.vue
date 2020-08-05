@@ -1,7 +1,5 @@
 <template>
   <div class="home container">
-<!--     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/> -->
     <!-- Title and blog intro section -->
     <section class="section">
       <div class="container">
@@ -92,12 +90,12 @@
 
 <script>
 // @ is an alias to /src
-// import HelloWorld from '@/components/HelloWorld.vue'
+// import HelloWorld from '@/components/HeaderBar.vue'
 
 export default {
   name: 'Home',
   components: {
-    // HelloWorld
+    // Headerbar
   },
   data () {
     return {
