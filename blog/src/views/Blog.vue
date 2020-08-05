@@ -8,11 +8,11 @@
       </h2>
     </div>
 
-    <div id="posts" style="max-width: 600px">
+    <div id="posts" style="max-width: 650px">
 
-      <section id="fundamentals" class="section">
+      <article id="fundamentals" class="section">
         <div class="container">
-          <h1 class="title">The Two Fundamentals</h1>
+          <h1 class="title">The Missing Fundamental</h1>
           <h2 class="subtitle">Awareness and Technique</h2>
 
           <div class="content">
@@ -37,9 +37,9 @@
             <p>To be a great hitter you should expand your toolbox but you also must recognize the job and know the right tool. Be intentional about your hitting and form habits around successful recognition-response patterns.</p>
           </div>
         </div>
-      </section>
+      </article>
 
-      <section id="pure" class="section">
+      <article id="pure" class="section">
         <div class="container">
           <h1 class="title">Fundamentals</h1>
           <h2 class="subtitle">Awareness and Technique</h2>
@@ -48,7 +48,7 @@
             <p>Great hitters are looking for kills regardless of the set, score, or opponent. Each set should be viewed as an opportunity/challenge to score.</p>
           </div>
         </div>
-      </section>
+      </article>
 
     </div>
   </div>
