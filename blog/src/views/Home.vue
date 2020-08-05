@@ -7,11 +7,9 @@
         <p class="subtitle">
           {{ this.randomPhrases[Math.floor(Math.random() * this.randomPhrases.length)] }}
         </p>
-        <article class="message is-dark">
-          <div class="message-body">
-            Welcome to my blog. I write data-driven, opinionated reflections on volleyball, learning, and technology.
-          </div>
-        </article>
+        <div class="notification">
+          Welcome to my site. I write data-driven, opinionated reflections on volleyball, learning, and technology.
+        </div>
       </div>
     </section>
 
@@ -50,25 +48,15 @@
         <div class="tile is-parent">
           <article class="tile is-child notification is-success">
             <div class="content">
-              <p class="title">Favorites</p>
+              <p class="title">Posts</p>
               <div class="content">
-                <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#pure'}">Fundamentals</router-link>
+                <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#fundamentals'}">The Missing Fundamental</router-link>
                 <hr>
-                <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#fundamentals'}">The Two Fundamentals</router-link>
+                <p>Challenges > drills (In progress)</p>
                 <hr>
-                <p class="menu-label">Custom Spotlight Button</p>
+                <p>Just Culture (In progress)</p>
                 <hr>
-                <p class="menu-label has-text-light">Sell products via Gumroad and Stripe</p>
-              </div>
-              <p class="title">In progress</p>
-              <div class="content">
-                <p>The Two Fundamentals</p>
-                <hr>
-                <p>Challenges > drills</p>
-                <hr>
-                <p>Just Culture</p>
-                <hr>
-                <p>Team Cognition</p>
+                <p>Team Cognition (In progress)</p>
               </div>
             </div>
           </article>
