@@ -23,8 +23,8 @@
         <div class="tile is-vertical is-8">
           <div class="tile">
             <div class="tile is-parent is-vertical">
-              <a class="tile is-child notification is-primary" href="/">
-                <p class="title">Recent</p>
+              <a class="tile is-child notification is-primary" href="/blog">
+                <p class="title">Blog</p>
                 <p class="subtitle">Jump to newest post</p>
               </a>
               <a class="tile is-child notification is-warning" href="https://en.wikipedia.org/wiki/Special:Random">

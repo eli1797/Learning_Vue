@@ -1,6 +1,6 @@
 <template>
   <div class="garden">
-    <section class="hero is-medium is-primary is-bold">
+    <section class="hero is-medium is-info">
       <div class="hero-body">
         <div class="container">
           <h1 class="title">Garden</h1>
