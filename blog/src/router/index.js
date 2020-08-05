@@ -1,0 +1,65 @@
+import Vue from 'vue'
+import VueRouter from 'vue-router'
+import Home from '../views/Home.vue'
+
+Vue.use(VueRouter)
+
+  const routes = [
+  {
+    path: '/',
+    name: 'Home',
+    component: Home,
+    meta: {
+      breadcrumb: ""
+    }
+  },
+  {
+    path: '/about',
+    name: 'About',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue'),
+    meta: {
+      breadcrumb: "About"
+    }
+  },
+  {
+    path: '/garden',
+    name: 'Garden',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "about" */ '../views/Garden.vue'),
+    meta: {
+      breadcrumb: "Garden"
+    }
+  },
+  {
+    path: '/blog',
+    name: 'Blog',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "about" */ '../views/Blog.vue'),
+    meta: {
+      breadcrumb: "Blog"
+    }
+  }
+]
+
+const router = new VueRouter({
+  routes: routes,
+  mode: "history",
+  scrollBehavior (to, from, savedPosition) {
+    console.log(from, savedPosition, to.hash)
+    if (to.hash) {
+      return {
+        selector: to.hash
+      }
+    }
+  },  
+
+})
+
+export default router
