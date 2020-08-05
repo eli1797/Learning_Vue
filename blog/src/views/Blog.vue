@@ -12,7 +12,7 @@
 
       <article id="fundamentals" class="section">
         <div class="container">
-          <h1 class="title">The Missing Fundamental</h1>
+          <h1 class="title">Hitting Fundamentals</h1>
           <h2 class="subtitle">Awareness and Technique</h2>
 
           <div class="content">
@@ -39,7 +39,7 @@
         </div>
       </article>
 
-      <article id="pure" class="section">
+     <!--  <article id="pure" class="section">
         <div class="container">
           <h1 class="title">Fundamentals</h1>
           <h2 class="subtitle">Awareness and Technique</h2>
@@ -48,7 +48,7 @@
             <p>Great hitters are looking for kills regardless of the set, score, or opponent. Each set should be viewed as an opportunity/challenge to score.</p>
           </div>
         </div>
-      </article>
+      </article> -->
 
     </div>
   </div>
