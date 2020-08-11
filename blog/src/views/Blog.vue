@@ -9,7 +9,6 @@
     </div>
 
     <div id="posts">
-      <br><br>
 
       <article id="fundamentals" class="section">
         <div class="container" style="max-width: 650px">
