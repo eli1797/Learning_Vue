@@ -39,16 +39,20 @@
         </div>
       </article>
 
-     <!--  <article id="pure" class="section">
+      <article id="awareness" class="section">
         <div class="container">
-          <h1 class="title">Fundamentals</h1>
-          <h2 class="subtitle">Awareness and Technique</h2>
+          <h1 class="title">How good are you at volleyball?</h1>
+          <h2 class="subtitle">On evaluation</h2>
 
           <div class="content">
-            <p>Great hitters are looking for kills regardless of the set, score, or opponent. Each set should be viewed as an opportunity/challenge to score.</p>
+            <p>So this is is how you probably started evaluating how good you are at volleyball</p>
+            <img src="../assets/volley_skill.svg">
+            <br><br>
+            <p>Then you probably made ratings for each skill</p>
+            <img alt="split_skills_eval" src="../assets/split_skills_eval.svg">
           </div>
         </div>
-      </article> -->
+      </article>
 
     </div>
   </div>
