@@ -15,6 +15,8 @@ npm run serve
 npm run build
 ```
 
+# Actually build with ```npx vue-cli-service build``` in blog dir
+
 ### Lints and fixes files
 ```
 npm run lint
