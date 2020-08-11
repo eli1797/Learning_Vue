@@ -1,17 +1,18 @@
 <template>
   <div class="blog">
 
-    <div>
+    <div class="container">
       <h1 class="title">Blog</h1>
       <h2 class="subtitle">
         My writing
       </h2>
     </div>
 
-    <div id="posts" style="max-width: 650px">
+    <div id="posts">
+      <br><br>
 
       <article id="fundamentals" class="section">
-        <div class="container">
+        <div class="container" style="max-width: 650px">
           <h1 class="title">Hitting Fundamentals</h1>
           <h2 class="subtitle">Awareness and Technique</h2>
 
@@ -40,16 +41,12 @@
       </article>
 
       <article id="awareness" class="section">
-        <div class="container">
+        <div class="container" style="max-width: 650px">
           <h1 class="title">How good are you at volleyball?</h1>
           <h2 class="subtitle">On evaluation</h2>
 
           <div class="content">
-            <p>So this is is how you probably started evaluating how good you are at volleyball</p>
-            <img src="../assets/volley_skill.svg">
-            <br><br>
-            <p>Then you probably made ratings for each skill</p>
-            <img alt="split_skills_eval" src="../assets/split_skills_eval.svg">
+            <img alt="evaluation" src="../assets/player_evaluation.svg" style="width: 100vw; min-width: 350px;">
           </div>
         </div>
       </article>
