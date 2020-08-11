@@ -30,7 +30,7 @@ Vue.use(VueRouter)
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/Garden.vue'),
+    component: () => import(/* webpackChunkName: "garden" */ '../views/Garden.vue'),
     meta: {
       breadcrumb: "Garden"
     }
@@ -41,7 +41,7 @@ Vue.use(VueRouter)
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/Blog.vue'),
+    component: () => import(/* webpackChunkName: "blog" */ '../views/Blog.vue'),
     meta: {
       breadcrumb: "Blog"
     }
@@ -52,11 +52,15 @@ const router = new VueRouter({
   routes: routes,
   mode: "history",
   scrollBehavior (to, from, savedPosition) {
-    console.log(from, savedPosition, to.hash)
+    // console.log(from, savedPosition, to.hash)
     if (to.hash) {
       return {
         selector: to.hash
-      }
+      }  
+    } else if (savedPosition) {
+      return savedPosition
+    } else {
+      return { x: 0, y: 0 }
     }
   },  
 

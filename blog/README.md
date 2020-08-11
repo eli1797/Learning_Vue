@@ -1,5 +1,12 @@
 # blog
 
+## Directions to future Eli
+
+Build for production (from blog dir) with ```npx vue-cli-service build``` 
+
+Deploy to firebase (from blog dir) with ```firebase deploy```
+
+
 ## Project setup
 ```
 npm install

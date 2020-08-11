@@ -20,7 +20,4 @@
       } 
     }
   }
-  
 </script>
-<style>
-</style>
