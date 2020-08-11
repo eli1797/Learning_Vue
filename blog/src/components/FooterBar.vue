@@ -1,5 +1,5 @@
 <template>
-  <section class="section pb-0">
+  <section id="footer" class="section pb-0">
     <div class="tabs is-centered">
       <ul>
         <li>
@@ -21,3 +21,12 @@
       name: 'FooterBar',
     }
 </script>
+
+<style>
+  #footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+</style>
