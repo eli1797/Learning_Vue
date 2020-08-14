@@ -95,7 +95,7 @@
         </div>
       </article>
 
-      <article id="awareness" class="section pl-0">
+      <article id="eval" class="section pl-0">
         <div class="container">
           <h1 class="title">How good are you at volleyball?</h1>
           <h2 class="subtitle">On evaluation</h2>

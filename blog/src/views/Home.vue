@@ -24,7 +24,7 @@
                   <p class="title">Blog</p>
                   <p class="subtitle">Jump to newest post</p>
                 </router-link>
-                <a class="tile is-child notification is-warning" href="https://en.wikipedia.org/wiki/Special:Random">
+                <a class="tile is-child notification is-warning" href="https://en.wikipedia.org/wiki/Special:Random" target="_blank">
                   <p class="title">Random</p>
                   <p class="subtitle">Go somewhere on Wikipedia</p>
                 </a>
@@ -51,11 +51,11 @@
               <div class="content">
                 <p class="title">Posts</p>
                 <div class="content">
-                  <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#fundamentals'}">Hitting Fundamentals</router-link>
+                  <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#fundamentals'}">Fundamental Skills</router-link>
                   <hr>
-                  <p>Challenges > drills (In progress)</p>
+                  <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#eval'}">How good are you at volleyball?</router-link>
                   <hr>
-                  <p>Just Culture (In progress)</p>
+                  <p>Hydrogen's Place (In progress)</p>
                   <hr>
                   <p>Team Cognition (In progress)</p>
                 </div>

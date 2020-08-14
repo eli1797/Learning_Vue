@@ -10,7 +10,7 @@
 
           <div class="content">
             <p>
-              A living library of things on the web I find exciting, odd, or valuable.
+              Links to things I find exciting, odd, or valuable.
             </p>
           </div>
         </div>
@@ -25,7 +25,7 @@
               <p class="title">Software</p>
               <!-- <p class="subtitle">Subtitle</p> -->
               <div class="content">
-                <p><a href="https://justgetflux.com/">Flux</a> A blue light blocker for Windows</p>
+                <p><a href="https://justgetflux.com/" target="_blank">Flux</a> A blue light blocker for Windows</p>
               </div>
             </article>
           </div>
@@ -33,7 +33,8 @@
             <article class="tile is-child box">
               <p class="title">Tools</p>
               <div class="content">
-                <p><a href="https://roamresearch.com/">Roam Research</a> Associative notetaking</p>
+                <p><a href="https://roamresearch.com/" target="_blank">Roam Research</a> Associative notetaking</p>
+                <p><a href="https://www.figma.com/" target="_blank">Figma</a> A design tool</p>
               </div>
             </article>
           </div>
@@ -41,7 +42,7 @@
             <article class="tile is-child box">
               <p class="title">Videos</p>
               <div class="content">
-                <p><a href="https://www.youtube.com/watch?v=3OoVWXiBVWo">Canada v. USA 2018 Nations League</a> My preferred viewing angle</p>
+                <p><a href="https://www.youtube.com/watch?v=3OoVWXiBVWo" target="_blank">Canada v. USA 2018 Nations League</a> The best volleyball viewing angle</p>
               </div>
             </article>
           </div>
@@ -49,7 +50,7 @@
             <article class="tile is-child box">
               <p class="title">Books</p>
               <div class="content">
-                <p><a href="https://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437">The War of Art</a> by Steven Pressfield</p>
+                <p><a href="https://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437" target="_blank">The War of Art</a> by Steven Pressfield</p>
               </div>
             </article>
           </div>

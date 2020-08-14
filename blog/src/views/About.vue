@@ -11,9 +11,9 @@
 
           <div class="content">
             <p>
-              First year of High School I failed to make the baseball team. I agreed to try volleyball after being asked. The head volleyball coach had a policy that upperclassmen had to bring a freshman to tryouts. I was tall so I made it despite being clumsy. I loved it. I'm still loving it many years later.
-              <br><br>
-              Now I play and coach. Tall, skinny, and clumbsy me wasn't a very good player. Volleyball did not come naturally. Now, I'm grateful for those struggles. They sparked my interest in improving player developement, helped form my understanding of the game, and led me to coach. I write here to help myself think, share my perspective, and encourage discussion about these topics.
+              I didn't make the baseball team freshman year of high school. That was bad because my family moved almost yearly and sports teams = friends. Luckily for me the head volleyball coach had a policy requiring upperclassmen to bring an 1st or 2nd year to tryouts. I only made the team because I was tall, but I loved it. Stumbling into volleyball is the highlight of my teenage years. I hope to help more people love this sport.</p>
+            <p>
+              Volleyball did not come naturally and I'm grateful for those struggles. They sparked my interest in teaching, helped form my understanding of the game, and led me to coach. I write here mostly to help myself think and I'd encourage you to ask me any questions on Twitter.
             </p>
           </div>
           <br>
@@ -22,7 +22,7 @@
           </h2>
 
           <div class="content">
-            <p>I'm creating this site, learning about hydrogen fuel cells, and living in Utah.</p>
+            <p>I'm creating this site to learn Vue.js, learning about hydrogen production, and living in Utah.</p>
             <p>Reading <em>Metaphors We Live By</em> from George Lakoff and Mark Johnson.</p>
           </div>
         </div>
