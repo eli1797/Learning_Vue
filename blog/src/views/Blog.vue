@@ -76,6 +76,22 @@
 
             <p>It's great to watch pro-athletes. Unfortunately viewers tend to focus on who has the ball. Young players and scouting coaches could benefit from ignoring the classic phrase "keep your eyes on the ball." In my opinion, most of what makes an athlete great is in the anticipation, preparation, and focus show demonstrated by players out of the spotlight.</p>
           </div>
+          <nav class="level is-mobile">
+            <div class="level-left">
+              <div class="level-item">
+                <div>
+                  <p>Draft: 1</p>
+                </div>
+              </div>
+            </div>
+            <div class="level-right">
+              <div class="level-item">
+                <div>
+                  <p>Last edited: August 14, 2020</p>
+                </div>
+              </div>
+            </div>
+          </nav>
         </div>
       </article>
 
@@ -88,6 +104,22 @@
             <img alt="evaluation" src="../assets/player_evaluation.svg" style="width: 100vw; min-width: 350px;">
           </div>
         </div>
+        <nav class="level is-mobile">
+            <div class="level-left">
+              <div class="level-item">
+                <div>
+                  <p>Draft: 1</p>
+                </div>
+              </div>
+            </div>
+            <div class="level-right">
+              <div class="level-item">
+                <div>
+                  <p>Last edited: August 14, 2020</p>
+                </div>
+              </div>
+            </div>
+          </nav>
       </article>
 
     </div>
