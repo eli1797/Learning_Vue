@@ -9,22 +9,21 @@
     </div>
 
     <div id="posts">
-
-      <article id="fundamentals" class="section">
+      <article id="fundamentals" class="section pl-0">
         <div class="container">
           <h1 class="title">Fundamental Skills</h1>
           <h2 class="subtitle">Awareness and Technique</h2>
 
           <div class="content">
-            <p>You can have a lot of fun listening to the crowd at a high-level match. Amazed younger players exclaiming "I would die if that serve came at me" or "She jumps so high!” But my favorite phrase to hear is "How did they know that was going to happen!"</p>
+            <p>You can have a lot of fun listening to the crowd at a high-level match. Amazed younger players exclaim "I would die if that serve came at me" or "She jumps so high!” But I think the most meaningful phrase to hear is "How did they know that was going to happen!"</p>
             
-            <p>Dedicated athletes are impressive. Executing advanced technique with strength, grace, and consistency is no easy feat. But the real differentiator between professional and beginner is mental not physical. Domain experts focus their attention on more important factors, recognize patterns faster, and make better predictions about their teammates and opponents. This is awareness.</p>
+            <p>Professional athletes are impressive. Executing advanced technique with strength, grace, and consistency is no easy feat. But the real differentiator between professional and beginner is mental, not physical. Domain experts experience enables them to focus their attention on more important factors, recognize patterns faster, and make better predictions about their teammates and opponents. This is awareness.</p>
             
-            <p>I split nearly everything in sport into awareness and technique.</p>
+            <p>I split nearly everything in a sport into awareness and technique.</p>
             
             <p>Technique is the ability to execute specific skills (motor patterns) in a consistent manner.</p>
             
-            <p>We practice technique. Hitting cross. Hitting line. Using the block to reset or tool. Tipping. These are the tools available to us. The motor patterns we practice until habitual.</p>
+            <p>We practice technique. Hitting cross. Hitting line. Using the block to reset or tool. Tipping. These are the tools available to us; the motor patterns we practice until habitual.</p>
             
             <p>Awareness is the ability to read the game, recognize possibilities, and choose a response.</p>
             
@@ -34,9 +33,9 @@
             
             <p>To see this flow let’s look to some Olympians. Watch this clip:</p>
           
-            <iframe width="100%" height="400px" src="https://www.youtube-nocookie.com/embed/bLCXHfyocVA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+            <iframe style="width: 100%; height: 400px;" src="https://www.youtube-nocookie.com/embed/bLCXHfyocVA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 
-            <p>We’ll focus on the action by Eric Shoji (near-side libero #22) and Micah Christenson. Wow. Watch the play again and only look at Shoji.</p>
+            <p>We’ll focus on the action by Eric Shoji (near-side libero #22) and Micah Christenson (near-side setter #11). Wow. Watch the play again and only look at Shoji.</p>
 
             <p>Now let's break down what Shoji does to set himself up to make this play.</p>
 
@@ -46,7 +45,7 @@
 
             <p>I bet he watched the sharp angle of the hitters approach, see's his teammate's double block, and notices the inside set. (Awareness)</p>
 
-            <p>Then he does a tennis step right before the hitter contacts. This is a one-two step aimed to ready a player for movement. (Technique)</p>
+            <p>Then, right before the hitter contacts, he does a tennis step. This is a one-two step aimed to ready a player for movement. (Technique)</p>
 
             <p>The rest is habit. Who should get the first ball, setter or libero? Shoji and Christenson both know.</p>
 
@@ -75,12 +74,12 @@
               </ul>
             </ul>
 
-            <p>It's great to watch pro-athletes. Unfortunately viewers tend to focus on who has the ball. Young players and scouting coaches could benefit from not "keeping their eye's on the ball." In my opinion, most of what makes an athlete great is in the anticipation, preparation, and focus show demonstrated by players out of the spotlight.</p>
+            <p>It's great to watch pro-athletes. Unfortunately viewers tend to focus on who has the ball. Young players and scouting coaches could benefit from ignoring the classic phrase "keep your eyes on the ball." In my opinion, most of what makes an athlete great is in the anticipation, preparation, and focus show demonstrated by players out of the spotlight.</p>
           </div>
         </div>
       </article>
 
-      <article id="awareness" class="section">
+      <article id="awareness" class="section pl-0">
         <div class="container">
           <h1 class="title">How good are you at volleyball?</h1>
           <h2 class="subtitle">On evaluation</h2>
