@@ -2,13 +2,70 @@
   <div class="blog" style="max-width: 675px">
 
     <div class="container">
-      <h1 class="title">Blog</h1>
-      <h2 class="subtitle">
+      <h1 class="title">Blog:</h1>
+<!--       <h2 class="subtitle">
         My writing
-      </h2>
+      </h2> -->
     </div>
 
     <div id="posts">
+      <article id="progress" class="section pl-0">
+        <div class="container">
+          <h1 class="title">Progress</h1>
+          <h2 class="subtitle">Expectations Spark Frustrations</h2>
+          <div class="content">
+            <p>Frustration sparks when our performance doesn't match our expectations. Unfortunately, too often our expectations are widely different from the realities of learning.</p>
+            <p>The simplest, wrongest view of progress is the expectation of linearity. The belief that more time in -> better performance. 5 units of time always mapping to 5 units of ability.</p>
+            <img style="width: 70%; min-width: 350px" src="../assets/linear.png">
+            <p>This model of progress is clearly wrong to anyone who's ever been tired, stressed, or sore. Some practice is better than others. Some days you perform better than others. Expectations of noticeable, consistent improvement tempt frustration.</p>
+            <p>A better model of progress must account for day-to-day variability.</p>
+            <p>The improved model is ugly, but real. Select sessions precipitate great advances, others no change —and some sting with regressions.</p>
+            <img style="width: 70%; min-width: 350px" src="../assets/fluctuating.png">
+            <p>In this model day-by-day performance means little. Progress is the game of improving our average.</p>
+            <img style="width: 70%; min-width: 350px" src="../assets/average.png">
+            <p>Expect difficulties along the climb to greatness. Overcoming local maximas of skill will require many mistakes. If you expect perfection this time will suck.</p>
+            <img style="width: 70%; min-width: 350px" src="../assets/mountain.png">
+            <p>To improve in the long term, you must be ok with performing worse for a time.</p>
+          </div>
+
+          <h2 class="subtitle">Work On Your Worsts</h2>
+          <div class="content">
+          <p>In progress...</p>
+          <ul>
+            <li>It sucks, but the right approach (setting process oriented goals ...) makes it doable</li>
+            <li>Huge benefits, affecting other skills</li>
+            <li>Noticing vs Judgement</li>
+          </ul>
+          </div>
+          <h2 class="subtitle">Necessary Mistakes</h2>
+          <div class="content">
+          <p>In progress...</p>
+          <ul>
+            <li>Need to make lots of mistakes to get better</li>
+            <li>Stuck in local maximum if unwilling to fail, fail, fail</li>
+            <li>Noticing vs Judgement</li>
+          </ul>
+          </div>
+
+          <nav class="level is-mobile">
+            <div class="level-left">
+              <div class="level-item">
+                <div>
+                  <p>Draft: 1</p>
+                </div>
+              </div>
+            </div>
+            <div class="level-right">
+              <div class="level-item">
+                <div>
+                  <p>Last edited: October 5, 2020</p>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </article>
+
       <article id="fundamentals" class="section pl-0">
         <div class="container">
           <h1 class="title">Fundamental Skills</h1>
