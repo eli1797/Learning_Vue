@@ -7,9 +7,9 @@
         <p class="subtitle">
           {{ this.randomPhrases[Math.floor(Math.random() * this.randomPhrases.length)] }}
         </p>
-        <div class="notification">
+        <!-- <div class="notification">
           Welcome to my site. I write data-driven, opinionated reflections on volleyball, learning, and technology.
-        </div>
+        </div> -->
       </div>
     </section>
 
@@ -84,7 +84,8 @@ export default {
   data () {
     return {
       // Ideas to add: "Proceed with caution", "" 
-      randomPhrases: ["How tall are you?", "General Kenobi", "Motor learning nerds", "You are here", "Proceed with caution"]
+      // randomPhrases: ["How tall are you?", "General Kenobi", "Motor learning nerds", "You are here", "Proceed with caution"]
+      randomPhrases: ["How can we improve urban life?", "How could we improve first interactions?", "When do I naturally feel like meditating, exercising, eating well? How can I get into that state more often?", "How could we improve drought preparedness? How can we get more freshwater?", "How can energy be converted to usable forms, stored, and used without emitting pollutants or GHG?", "What comes after the book? How could we store/transmit knowledge more effectively?"]
     }
   },
 }
