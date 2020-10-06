@@ -4,7 +4,7 @@
 
 Build for production (from blog dir) with ```npx vue-cli-service build``` 
 
-Deploy to firebase (from blog dir) with ```firebase deploy```
+Deploy to firebase (from blog\dist dir) with ```firebase deploy```
 
 Serve for development (from blog dir) with ```vue ui``` -> tasks -> serve -> run task
 
