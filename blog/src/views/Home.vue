@@ -51,11 +51,11 @@
               <div class="content">
                 <p class="title">Posts</p>
                 <div class="content">
+                  <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#progress'}">Progress</router-link>
+                  <hr>
                   <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#fundamentals'}">Fundamental Skills</router-link>
                   <hr>
                   <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#eval'}">How good are you at volleyball?</router-link>
-                  <hr>
-                  <p>Hydrogen's Place (In progress)</p>
                   <hr>
                   <p>Team Cognition (In progress)</p>
                 </div>
