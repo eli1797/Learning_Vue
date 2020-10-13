@@ -42,7 +42,9 @@
             <div class="tile is-parent">
               <router-link class="tile is-child notification is-danger" to="/about">
                 <p class="title">About</p>
-                <p class="subtitle">I'm a software engineer by day, but at night...</p>
+                <p class="subtitle">
+                  {{ this.aboutPhrases[Math.floor(Math.random() * this.aboutPhrases.length)] }}
+                </p>
               </router-link>
             </div>
           </div>
@@ -85,7 +87,8 @@ export default {
     return {
       // Ideas to add: "Proceed with caution", "" 
       // randomPhrases: ["How tall are you?", "General Kenobi", "Motor learning nerds", "You are here", "Proceed with caution"]
-      randomPhrases: ["How can we improve urban life?", "How could we improve first interactions?", "When do I naturally feel like meditating, exercising, eating well? How can I get into that state more often?", "How could we improve drought preparedness? How can we get more freshwater?", "How can energy be converted to usable forms, stored, and used without emitting pollutants or GHG?", "What comes after the book? How could we store/transmit knowledge more effectively?"]
+      randomPhrases: ["How can we improve urban life?", "How could we improve first interactions?", "When do I feel like meditating, exercising, or eating well? How can I get into that state more often?", "How could we improve drought preparedness? How can we get more freshwater?", "How can hydrogen be generated, stored, and used without emitting pollutants or GHG?", "What comes after the book? How could we store/transmit knowledge more effectively?"],
+      aboutPhrases: ["Often asked to get items from high places", "I like cooking", "Volleyball, Programming, Nature"]
     }
   },
 }
