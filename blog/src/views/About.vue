@@ -5,25 +5,27 @@
         <div class="container">
           <h1 class="title">About</h1>
           <br>
+          
+          <h2 class="subtitle">
+            Now
+          </h2>
+
+          <div class="content">
+            <p>Living in Utah. Looking for work, doing a lot of reading, and talking many walks with the family dog.</p>
+            <p>Reading: <em>Finite and Infinite Games</em> by James P. Carse | <em>The Inner Game of Tennis</em> by W. Timothy Gallwey</p>
+          </div>
+          <br>
+
           <h2 class="subtitle">
             Stumbling into volleyball
           </h2>
 
           <div class="content">
             <p>
-              First year of High School I failed to make the baseball team. I agreed to try volleyball after being asked. The head volleyball coach had a policy that upperclassmen had to bring a freshman to tryouts. I was tall so I made it despite being clumsy. I loved it. I'm still loving it many years later.
-              <br><br>
-              Now I play and coach. Tall, skinny, and clumbsy me wasn't a very good player. Volleyball did not come naturally. Now, I'm grateful for those struggles. They sparked my interest in improving player developement, helped form my understanding of the game, and led me to coach. I write here to help myself think, share my perspective, and encourage discussion about these topics.
+              I didn't make the baseball team freshman year of high school. Luckily, the head volleyball coach had a policy requiring upperclassmen to bring an 1st or 2nd year to tryouts. I made the team because I was tall. I loved it. Stumbling into volleyball is the highlight of my teenage years. I hope to help more people learn and love this sport.</p>
+            <p>
+              Volleyball did not come naturally and in a way I'm grateful for the struggle. It sparked an interest in learning, shaped my understanding of the game, and led me to coach. I write here mostly to help myself think. Feel free to discuss anyhere here with me on Twitter.
             </p>
-          </div>
-          <br>
-          <h2 class="subtitle">
-            Now
-          </h2>
-
-          <div class="content">
-            <p>I'm creating this site, learning about hydrogen fuel cells, and living in Utah.</p>
-            <p>Reading <em>Metaphors We Live By</em> from George Lakoff and Mark Johnson.</p>
           </div>
         </div>
       </div>

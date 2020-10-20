@@ -7,9 +7,9 @@
         <p class="subtitle">
           {{ this.randomPhrases[Math.floor(Math.random() * this.randomPhrases.length)] }}
         </p>
-        <div class="notification">
+        <!-- <div class="notification">
           Welcome to my site. I write data-driven, opinionated reflections on volleyball, learning, and technology.
-        </div>
+        </div> -->
       </div>
     </section>
 
@@ -24,7 +24,7 @@
                   <p class="title">Blog</p>
                   <p class="subtitle">Jump to newest post</p>
                 </router-link>
-                <a class="tile is-child notification is-warning" href="https://en.wikipedia.org/wiki/Special:Random">
+                <a class="tile is-child notification is-warning" href="https://en.wikipedia.org/wiki/Special:Random" target="_blank">
                   <p class="title">Random</p>
                   <p class="subtitle">Go somewhere on Wikipedia</p>
                 </a>
@@ -42,7 +42,9 @@
             <div class="tile is-parent">
               <router-link class="tile is-child notification is-danger" to="/about">
                 <p class="title">About</p>
-                <p class="subtitle">I'm a software engineer by day, but at night...</p>
+                <p class="subtitle">
+                  {{ this.aboutPhrases[Math.floor(Math.random() * this.aboutPhrases.length)] }}
+                </p>
               </router-link>
             </div>
           </div>
@@ -51,13 +53,13 @@
               <div class="content">
                 <p class="title">Posts</p>
                 <div class="content">
-                  <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#fundamentals'}">Hitting Fundamentals</router-link>
+                  <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#progress'}">Progress</router-link>
                   <hr>
-                  <p>Challenges > drills (In progress)</p>
+                  <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#fundamentals'}">Fundamental Skills</router-link>
                   <hr>
-                  <p>Just Culture (In progress)</p>
+                  <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#eval'}">How good are you at volleyball?</router-link>
                   <hr>
-                  <p>Team Cognition (In progress)</p>
+                  <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#cognition'}">Team Cognition (In progress)</router-link>
                 </div>
               </div>
             </article>
@@ -84,7 +86,9 @@ export default {
   data () {
     return {
       // Ideas to add: "Proceed with caution", "" 
-      randomPhrases: ["How tall are you?", "General Kenobi", "Motor learning nerds", "You are here", "Proceed with caution"]
+      // randomPhrases: ["How tall are you?", "General Kenobi", "Motor learning nerds", "You are here", "Proceed with caution"]
+      randomPhrases: ["How can we improve urban life?", "How could we improve first interactions?", "When do I feel like meditating, exercising, or eating well? How can I get into that state more often?", "How could we improve drought preparedness? How can we get more freshwater?", "How can hydrogen be generated, stored, and used without emitting pollutants or GHG?", "What comes after the book? How could we store/transmit knowledge more effectively?"],
+      aboutPhrases: ["Often asked to get items from high places", "I like cooking", "Volleyball, Programming, Nature"]
     }
   },
 }
