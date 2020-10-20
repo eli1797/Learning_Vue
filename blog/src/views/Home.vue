@@ -59,7 +59,7 @@
                   <hr>
                   <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#eval'}">How good are you at volleyball?</router-link>
                   <hr>
-                  <p>Team Cognition (In progress)</p>
+                  <router-link style="text-decoration: none;" :to="{ name: 'Blog', hash: '#cognition'}">Team Cognition (In progress)</router-link>
                 </div>
               </div>
             </article>

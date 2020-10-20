@@ -9,13 +9,59 @@
     </div>
 
     <div id="posts">
+      <article id="cognition" class="section pl-0">
+        <div class="container">
+          <h1 class="title">On Yelling: "Talk, call the ball"</h1>
+          <!-- <h2 class="subtitle">Team Cognition</h2> -->
+          <div class="content">
+            <p>Yelling "Talk! Call mine!" is the wrong response to a ball dropping on your court.</p>
+
+            <p>Depending on talk alone benefits only the player with the loudest voice or worst hearing. Volleyball is simply too fast for play to depend on explicit communication. You need team cognition.</p>
+
+            <p>Team cognition arises when a group has a shared mental model of what they're doing, how they'll do it, and who does what.</p>
+
+            <p>When every kid on a soccer field runs to the ball —abandoning goals, defense, and dandelions— they have a shared mental model: Get to the ball.</p>
+
+            <p>When two best friends on a basketball team only pass to each other they have a shared mental model: My friend is better and will pass back to me.</p>
+
+            <p>When your front-row setter runs to dive for a ball in deep zone five while the rest of the team watches it drop they have a shared mental model: The setter always gets the second ball.</p>
+
+            <p>Your job as a coach is not only to align mental models but to shape them. You develop a coherent strategy and evangelize it.</p>
+
+            <p>So when a ball drops, ask questions. What type of mistake was made? Many are possible. Did your players incorrectly respond to a correctly identified situation or not see a situation at all?</p>
+
+            <p>Communication is useful to navigate grey areas. A back-row player taking the second-ball set from the setter on a poor pass should gesture and yell “Mine.” A libero taking a first ball from another player needs to make their presence known. Talk helps with audibles and assurances —but it should not be the foundation of your play.</p>
+
+            <p>Mistakes of coordination reveal cracks in cognition. Be a teacher, not a principle. Take time to ask questions, come to an understanding of what happened, and guide your team to a better response.</p>
+
+          </div>
+
+          <nav class="level is-mobile">
+            <div class="level-left">
+              <div class="level-item">
+                <div>
+                  <p>Draft: Oh god its a rough rough draft</p>
+                </div>
+              </div>
+            </div>
+            <div class="level-right">
+              <div class="level-item">
+                <div>
+                  <p>Last edited: October 20, 2020</p>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </article>
+
       <article id="progress" class="section pl-0">
         <div class="container">
           <h1 class="title">Progress</h1>
           <h2 class="subtitle">Expectations Spark Frustrations</h2>
           <div class="content">
-            <p>Frustration sparks when our performance doesn't match our expectations. Unfortunately, too often our expectations are widely different from the realities of learning.</p>
-            <p>The simplest, wrongest view of progress is the expectation of linearity. The belief that more time in -> better performance. 5 units of time always mapping to 5 units of ability.</p>
+            <p>Frustration sparks when our performance doesn't match our expectations. Unfortunately, our expectations often differ from the realities of learning.</p>
+            <p>The simplest, wrongest view of progress is the expectation of linearity. The belief that more time in -> better performance: 5 units of time always creating to 5 units of ability.</p>
             <img style="width: 70%; min-width: 350px" src="../assets/linear.png">
             <p>This model of progress is clearly wrong to anyone who's ever been tired, stressed, or sore. Some practice is better than others. Some days you perform better than others. Expectations of noticeable, consistent improvement tempt frustration.</p>
             <p>A better model of progress must account for day-to-day variability.</p>
@@ -51,14 +97,14 @@
             <div class="level-left">
               <div class="level-item">
                 <div>
-                  <p>Draft: 1</p>
+                  <p>Draft: <a href="https://github.com/eli1797/Learning_Vue/commits/dev/blog/src/views/Blog.vue">2</a></p>
                 </div>
               </div>
             </div>
             <div class="level-right">
               <div class="level-item">
                 <div>
-                  <p>Last edited: October 5, 2020</p>
+                  <p>Last edited: October 20, 2020</p>
                 </div>
               </div>
             </div>
