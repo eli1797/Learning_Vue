@@ -5,7 +5,7 @@
         <div class="container">
           <h1 class="title">Garden</h1>
           <h2 class="subtitle">
-            Welcome to my garden
+            Welcome. Expect the number of links to grow.
           </h2>
 
           <div class="content">
@@ -52,6 +52,21 @@
               </div>
             </article>
           </div>
+          <div class="tile is-parent">
+            <article class="tile is-child box">
+              <p class="title">Assorted Things</p>
+              <div class="content">
+                <a href="https://en.wikipedia.org/wiki/Special:Random" target="_blank">A Random Wikipedia Page</a>
+                <br>
+                <a href="https://www.gutenberg.org/" target="_blank">Project Gutenberg</a>
+                <br>
+                <a href="https://en.wikipedia.org/wiki/Special:Random" target="_blank">Italian Music for Coding or Cooking</a>
+                <br>
+                <a href="https://www.youtube.com/channel/UCd2-Mxx5pQP5qQYx97FApbQ" target="_blank">Some Volleyball Videos</a>
+              </div>
+            </article>
+          </div>
+
         </div>
         <!-- <div class="tile is-ancestor">
           <div class="tile is-parent">
