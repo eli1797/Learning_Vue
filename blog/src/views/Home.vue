@@ -24,19 +24,23 @@
                   <p class="title">Blog</p>
                   <p class="subtitle">Jump to newest post</p>
                 </router-link>
-                <a class="tile is-child notification is-warning" href="https://en.wikipedia.org/wiki/Special:Random" target="_blank">
-                  <p class="title">Random</p>
-                  <p class="subtitle">Go somewhere on Wikipedia</p>
-                </a>
+                <router-link class="tile is-child notification is-warning" to="/work">
+                  <p class="title">Work</p>
+                  <p class="subtitle">My projects, ideas, etc</p>
+                </router-link>
               </div>
-              <div class="tile is-parent">
+              <div class="tile is-parent is-vertical">
                 <router-link class="tile is-child notification is-info" to="/garden">
                   <p class="title">Garden</p>
                   <p class="subtitle">A library of links</p>
-                  <figure class="image is-3by1 is-hidden-mobile">
+<!--                   <figure class="image is-3by1 is-hidden-mobile">
                     <img src="../assets/undraw_Gardening.svg">
-                  </figure>
+                  </figure> -->
                 </router-link>
+                <a class="tile is-child notification is-link" href="https://en.wikipedia.org/wiki/Special:Random" target="_blank">
+                  <p class="title">Random</p>
+                  <p class="subtitle">Go somewhere on Wikipedia</p>
+                </a>
               </div>
             </div>
             <div class="tile is-parent">
