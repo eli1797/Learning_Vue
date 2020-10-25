@@ -3,7 +3,7 @@
     <!-- Title and blog intro section -->
     <section class="section">
       <div class="container">
-        <h1 class="title">Hello There</h1>
+        <h1 class="title">Hello There! Question:</h1>
         <p class="subtitle">
           {{ this.randomPhrases[Math.floor(Math.random() * this.randomPhrases.length)] }}
         </p>
@@ -20,9 +20,9 @@
           <div class="tile is-vertical is-8">
             <div class="tile">
               <div class="tile is-parent is-vertical">
-                <router-link class="tile is-child notification is-primary" to="/blog">
+                <router-link class="tile is-child notification is-success" to="/blog">
                   <p class="title">Blog</p>
-                  <p class="subtitle">Jump to newest post</p>
+                  <p class="subtitle">My writing</p>
                 </router-link>
                 <router-link class="tile is-child notification is-warning" to="/work">
                   <p class="title">Work</p>
@@ -37,20 +37,26 @@
                     <img src="../assets/undraw_Gardening.svg">
                   </figure> -->
                 </router-link>
-                <a class="tile is-child notification is-link" href="https://en.wikipedia.org/wiki/Special:Random" target="_blank">
+                <router-link class="tile is-child notification is-danger" to="/about">
+                <p class="title">About</p>
+                <p class="subtitle">
+                  {{ this.aboutPhrases[Math.floor(Math.random() * this.aboutPhrases.length)] }}
+                </p>
+              </router-link>
+<!--                 <a class="tile is-child notification is-link" href="https://en.wikipedia.org/wiki/Special:Random" target="_blank">
                   <p class="title">Random</p>
                   <p class="subtitle">Go somewhere on Wikipedia</p>
-                </a>
+                </a> -->
               </div>
             </div>
-            <div class="tile is-parent">
+<!--             <div class="tile is-parent">
               <router-link class="tile is-child notification is-danger" to="/about">
                 <p class="title">About</p>
                 <p class="subtitle">
                   {{ this.aboutPhrases[Math.floor(Math.random() * this.aboutPhrases.length)] }}
                 </p>
               </router-link>
-            </div>
+            </div> -->
           </div>
           <div class="tile is-parent">
             <article class="tile is-child notification is-success">
@@ -91,7 +97,7 @@ export default {
     return {
       // Ideas to add: "Proceed with caution", "" 
       // randomPhrases: ["How tall are you?", "General Kenobi", "Motor learning nerds", "You are here", "Proceed with caution"]
-      randomPhrases: ["How can we improve urban life?", "How could we improve first interactions?", "When do I feel like meditating, exercising, or eating well? How can I get into that state more often?", "How could we improve drought preparedness? How can we get more freshwater?", "How can hydrogen be generated, stored, and used without emitting pollutants or GHG?", "What comes after the book? How could we store/transmit knowledge more effectively?"],
+      randomPhrases: ["How can we improve city life?", "How could we improve first meetings, introductions, or dates?", "When do I feel like meditating, exercising, or eating well? How can I get into that state more often?", "How could we improve drought preparedness? How can we get more freshwater?", "How can hydrogen be generated, stored, and used without emitting pollutants or GHG?", "What comes after the book? How could we store/transmit knowledge more effectively?"],
       aboutPhrases: ["Often asked to get items from high places", "I like cooking", "Volleyball, Programming, Nature"]
     }
   },
