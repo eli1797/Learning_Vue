@@ -4,23 +4,14 @@
       <!-- Put work items here -->
       <div id="sensory" class="box">
         <article class="media">
-          <div class="media-left is-hidden-mobile">
-            <figure class="image" style="max-width: 300px">
-              <img src="../assets/armband.jpg" alt="Image">
-            </figure>
-
-          </div>
           <div class="media-content">
             <div class="content">
-              <p class="subtitle"><strong>Sensory Addition for Language</strong></p>
-              <figure class="image is-4by3 is-hidden-tablet">
-                <img src="../assets/armband.jpg" alt="Image">
-              </figure>
+              <p class="subtitle"><strong>Sensory Addition for Language</strong><span class="tag" style="margin-left: 5px">School Project</span></p>
               <p>Does language have to be heard or seen? Can humans recognize syllables/words in vibration patterns on the forearm?</p>
               <p>Our team developed a haptic armband and ran a study teaching participants a language composed of audio syllables mapped to tactile sensations.</p>
               <a href="https://docs.google.com/document/d/1J-lYN1S7y16q-tjPnKsI10jdSreZeVuEMSevx6IxUiI/edit?usp=sharing">Paper</a>
               <br>
-              <a href="https://www.youtube.com/watch?v=xmOC_orH56g">Project Video (really fantastic audio)</a>
+              <a href="https://www.youtube.com/watch?v=xmOC_orH56g">Project Video (poor audio)</a>
             </div>
           </div>
         </article>
@@ -28,24 +19,56 @@
 
       <div id="loci" class="box">
         <article class="media">
-          <div class="media-left is-hidden-mobile">
-            <figure class="image" style="max-width: 300px">
-              <img src="../assets/undraw_neighbors_ciwb.svg" alt="Image">
-            </figure>
-
-          </div>
           <div class="media-content">
             <div class="content">
-              <p class="subtitle"><strong>Loci</strong></p>
-              <figure class="image is-4by3 is-hidden-tablet">
-                <img src="../assets/undraw_neighbors_ciwb.svg" alt="Image">
-              </figure>
+              <p class="subtitle"><strong>Loci</strong><span class="tag" style="margin-left: 5px">Project</span></p>
               <p>An exploration of augmented signaling: What's next after body language, clothing, and accessories?</p>
-              <p>Goal: Help you find your people and have better interactions</p>
-              <p>What am I (a private person — though I do have a website) willing to share if it helps me and I completely own and control access to data like location and visibility?</p>
+              <p>Goal: Find your people and have better early interactions</p>
+              <p>When we control our data (eg. location on/off & precision, visibility) what are we willing to share and is the benefit worth it?</p>
+              <p>Helps with <a href="https://twitter.com/john_c_palmer/status/1291548207542149120">this</a></p>
               <a href="https://github.com/eli1797/loci_mvp">Github repo</a>
               <br>
               <a href="https://drive.google.com/drive/folders/1rDp0evbyQrMQvSB_bu-pnq0LLSBwNwHy?usp=sharing">Roam Notes</a>
+            </div>
+          </div>
+        </article>
+      </div>
+
+      <div id="hydro" class="box">
+        <article class="media">
+          <div class="media-content">
+            <div class="content">
+              <p class="subtitle"><strong>Hydrogen: Power and Production</strong><span class="tag" style="margin-left: 5px">Idea</span></p>
+              <p>I believe hydrogen should power the maritime shipping industry. Liquefied Natural Gas is not the solution because of methane emissions(Methane has a GWP(20) (20-year global warming potential) which is 86x higher than CO2!). Hydrogen production must be GHG-free: Wind and solar are already excellent sources of electricity for electrolysis.</p>
+              <p>I would like to see more research into salt water electrolysis and hydrogen/ammonia production from waste.</p> 
+              <p>Humans piss urea (containing ammonia) which electrolyzes into hydrogen easier than water. Making ammonia (mostly for fertilizer) with the Haber-Bosch process consumes ~2% of the world's energy and produces more CO2 than any other chemical process. We currently use Nitrosomonas bacteria to remove ammonia in our wastewater treatment plants. Could we capture and use wastewater ammonia instead?</p>
+              <a href="https://www.sciencedirect.com/science/article/pii/S0009250920304668">Ammonia capture from wastewater with a high ammonia nitrogen concentration by water splitting and hollow fiber extraction</a>
+            </div>
+          </div>
+        </article>
+      </div>
+
+      <div id="stats" class="box">
+        <article class="media">
+          <div class="media-content">
+            <div class="content">
+              <p class="subtitle"><strong>Volleyball Stats App</strong><span class="tag" style="margin-left: 5px">Project</span></p>
+              <p>Created an Android App for tracking time-stamped volleyball statistics</p>
+              <p>Operation: Press start in app as you begin recording with a camera. Track stats, get a txt file, paste it in the Youtube comments for your recording. Now you can automatically jump to timestamped stats.</p>
+              <a href="https://github.com/eli1797/ProtoypeStats">Github Repo</a>
+            </div>
+          </div>
+        </article>
+      </div>
+
+      <div id="grammar" class="box">
+        <article class="media">
+          <div class="media-content">
+            <div class="content">
+              <p class="subtitle"><strong>Grammar NLP site</strong><span class="tag" style="margin-left: 5px">Project</span></p>
+              <p>I never liked grammar. So I built a site where you could input text and see tagged parts of speech, mapped word relations, and (sometimes) images for nouns. It's ugly but was a good chance to play around with spaCy.</p>
+              <p>Just <a href="https://spacy.io/">spaCy</a>(which has beautiful docs) in a Lambda Layer hosted in an S3 bucket.</p>
+              <a href="https://learnenglishnlp.s3.amazonaws.com/index.html">Site</a>
             </div>
           </div>
         </article>
