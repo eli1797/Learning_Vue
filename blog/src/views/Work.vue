@@ -6,8 +6,8 @@
         <article class="media">
           <div class="media-content">
             <div class="content">
-              <p class="subtitle"><strong>Sensory Addition for Language</strong><span class="tag" style="margin-left: 5px">School Project</span></p>
-              <p>Does language have to be heard or seen? Can humans recognize syllables/words in vibration patterns on the forearm?</p>
+              <p class="subtitle"><strong>Sensory Addition for Language</strong><span class="tag" style="margin-left: 5px">Project</span></p>
+              <p>Must language have be seen or heard? Could humans recognize syllables/words in vibration patterns on the forearm?</p>
               <p>Our team developed a haptic armband and ran a study teaching participants a language composed of audio syllables mapped to tactile sensations.</p>
               <a href="https://docs.google.com/document/d/1J-lYN1S7y16q-tjPnKsI10jdSreZeVuEMSevx6IxUiI/edit?usp=sharing">Paper</a>
               <br>
@@ -34,19 +34,7 @@
         </article>
       </div>
 
-      <div id="hydro" class="box">
-        <article class="media">
-          <div class="media-content">
-            <div class="content">
-              <p class="subtitle"><strong>Hydrogen: Power and Production</strong><span class="tag" style="margin-left: 5px">Idea</span></p>
-              <p>I believe hydrogen should power the maritime shipping industry. Liquefied Natural Gas is not the solution because of methane emissions(Methane has a GWP(20) (20-year global warming potential) which is 86x higher than CO2!). Hydrogen production must be GHG-free: Wind and solar are already excellent sources of electricity for electrolysis.</p>
-              <p>I would like to see more research into salt water electrolysis and hydrogen/ammonia production from waste.</p> 
-              <p>Humans piss urea (containing ammonia) which electrolyzes into hydrogen easier than water. Making ammonia (mostly for fertilizer) with the Haber-Bosch process consumes ~2% of the world's energy and produces more CO2 than any other chemical process. We currently use Nitrosomonas bacteria to remove ammonia in our wastewater treatment plants. Could we capture and use wastewater ammonia instead?</p>
-              <a href="https://www.sciencedirect.com/science/article/pii/S0009250920304668">Ammonia capture from wastewater with a high ammonia nitrogen concentration by water splitting and hollow fiber extraction</a>
-            </div>
-          </div>
-        </article>
-      </div>
+      
 
       <div id="stats" class="box">
         <article class="media">
@@ -74,6 +62,30 @@
         </article>
       </div>
 
+      <div id="nextbook" class="box">
+        <article class="media">
+          <div class="media-content">
+            <div class="content">
+              <p class="subtitle"><strong>What's the next book?</strong><span class="tag" style="margin-left: 5px">Project</span></p>
+              <p>The next book is more than an information store. It could teach, tailor to your interests, or help you remember it's lessons.</p>
+              <p>Currently experimenting.</p>
+            </div>
+          </div>
+        </article>
+      </div>
+
+      <div id="more" class="box">
+        <article class="media">
+          <div class="media-content">
+            <div class="content">
+              <p class="subtitle"><strong>More?</strong></p>
+              <p>I'm on <a href="https://twitter.com/arbor_baron">Twitter</a></p>
+              <p>Here's my <a href="https://drive.google.com/file/d/119y7z7wsEZnZR9GFvEnqSQqPTIz6LObS/view?usp=sharing">Resume</a>, <a href="https://www.linkedin.com/in/elijahbailey/">LinkedIn</a>, and <a href="https://github.com/eli1797">Github</a>.</p>
+            </div>
+          </div>
+        </article>
+      </div>
+      
     </div>  
   </div>
 </template>
