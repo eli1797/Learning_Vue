@@ -27,7 +27,7 @@
                 </router-link>
                 <router-link class="tile is-child notification is-warning" to="/work">
                   <p class="title">Work</p>
-                  <p class="subtitle">My projects, ideas, questions, etc.</p>
+                  <p class="subtitle">Projects, ideas, questions, etc.</p>
                   <br>
                 </router-link>
               </div>
