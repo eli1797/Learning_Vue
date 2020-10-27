@@ -54,7 +54,7 @@
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
-              <p class="title">Assorted Things</p>
+              <p class="title">Assorted</p>
               <div class="content">
                 <a href="https://en.wikipedia.org/wiki/Special:Random" target="_blank">A Random Wikipedia Page</a>
                 <br>
