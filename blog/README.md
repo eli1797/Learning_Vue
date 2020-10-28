@@ -8,6 +8,8 @@ Build for production (from blog dir) with ```npx vue-cli-service build```
 
 Deploy to firebase (from blog\dist dir) with ```firebase deploy```
 
+Did you update the LAST UPDATED date?
+
 
 ## Project setup
 ```

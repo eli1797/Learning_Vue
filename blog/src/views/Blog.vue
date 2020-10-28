@@ -100,7 +100,7 @@
             <div class="level-right">
               <div class="level-item">
                 <div>
-                  <p>Last edited: October 20, 2020</p>
+                  <p>Last edited: October 28, 2020</p>
                 </div>
               </div>
             </div>
