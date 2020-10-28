@@ -76,21 +76,17 @@
 
           <h2 class="subtitle">Work On Your Worsts</h2>
           <div class="content">
-          <p>In progress...</p>
-          <ul>
-            <li>It sucks, but the right approach (setting process oriented goals ...) makes it doable</li>
-            <li>Huge benefits, affecting other skills</li>
-            <li>Noticing vs Judgement</li>
-          </ul>
+            <p>In progress...</p>
+            <ul>
+              <li>It sucks, but the right approach (setting process oriented goals ...) makes it doable</li>
+              <li>Huge benefits, affecting other skills</li>
+              <li>Noticing vs Judgement</li>
+            </ul>
           </div>
           <h2 class="subtitle">Necessary Mistakes</h2>
           <div class="content">
-          <p>In progress...</p>
-          <ul>
-            <li>Need to make lots of mistakes to get better</li>
-            <li>Stuck in local maximum if unwilling to fail, fail, fail</li>
-            <li>Noticing vs Judgement</li>
-          </ul>
+            <p>Mistakes are a sign you're learning. Legendary improv coach Keith Johnstone says it best:</p>
+            <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JgfXUS0US9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
 
           <nav class="level is-mobile">

@@ -34,7 +34,19 @@
         </article>
       </div>
 
-      
+      <div id="hydro" class="box">
+        <article class="media">
+          <div class="media-content">
+            <div class="content">
+              <p class="subtitle"><strong>Hydrogen: Power and Production</strong><span class="tag" style="margin-left: 5px">Idea</span></p>
+              <p>I believe hydrogen should power the maritime shipping industry. Liquefied Natural Gas is not the solution because of methane emissions (Methane has a GWP(20) (20-year global warming potential) which is 86x higher than CO2!). Hydrogen production must be GHG-free: Wind and solar are already excellent sources of electricity for electrolysis.</p>
+              <p>I would like to see more research into salt water electrolysis and hydrogen/ammonia production from waste.</p> 
+              <p>Humans piss urea (containing ammonia) which electrolyzes into hydrogen easier than water. Making ammonia (mostly for fertilizer) with the Haber-Bosch process consumes ~2% of the world's energy and produces more CO2 than any other chemical process. We currently use Nitrosomonas bacteria to remove ammonia in our wastewater treatment plants. Could we capture and use wastewater ammonia instead?</p>
+              <a href="https://www.sciencedirect.com/science/article/pii/S0009250920304668">Ammonia capture from wastewater with a high ammonia nitrogen concentration by water splitting and hollow fiber extraction</a>
+            </div>
+          </div>
+        </article>
+      </div>
 
       <div id="stats" class="box">
         <article class="media">
