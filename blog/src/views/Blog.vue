@@ -1,14 +1,19 @@
 <template>
-  <div class="blog" style="max-width: 675px">
-
-    <div class="container">
-      <h1 class="title">Blog:</h1>
-<!--       <h2 class="subtitle">
-        My writing
-      </h2> -->
-    </div>
-
+  <div class="container" style="max-width: 675px">
     <div id="posts">
+
+      <article id="fundamentals" class="section pl-0">
+        <div class="container">
+          <h1 class="title">"Talk! Call the Ball!"</h1>
+          <h2 class="subtitle">For Coaches of New Volleyball Players</h2>
+
+           <div class="content">
+             
+           </div>
+
+        </div>
+      </article>
+
       <article id="progress" class="section pl-0">
         <div class="container">
           <h1 class="title">Progress</h1>
