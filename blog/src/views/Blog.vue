@@ -9,52 +9,6 @@
     </div>
 
     <div id="posts">
-      <article id="cognition" class="section pl-0">
-        <div class="container">
-          <h1 class="title">Talk! Call the ball!</h1>
-          <!-- <h2 class="subtitle">Team Cognition</h2> -->
-          <div class="content">
-            <p>"Talk! Call the ball!" is a poor response to balls dropped between players.</p>
-
-            <p>Overdependence on communication benefits only the player with the loudest voice or worst hearing. Play unfolds too quickly for coordination reliant on talk. You need team cognition.</p>
-
-            <p>Team cognition arises when a group has a shared mental model of what they're doing, how they'll do it, and who’ll do what.</p>
-
-            <p>When every kid on a soccer field runs to the ball —abandoning goalposts, defense, and dandelions— they have a shared mental model: <i>Get the ball.</i></p>
-
-            <p>When two best friends on a basketball team only pass to each other they have a shared mental model: <i>My friend is good and passes to me.</i></p>
-
-            <p>When your front-row setter sprints to dive for a ball in deep zone five while the rest of the team watches they have a shared mental model: <i>The setter always gets the second ball.</i></p>
-
-            <p>Your job as a coach is not only to align mental models but to shape them. You develop a strategy and evangelize it.</p>
-
-            <p>So when a ball drops, ask questions. What type of mistake was made? Did your players incorrectly respond to a correctly identified situation or not recognize the situation at all?</p>
-
-            <p>Mistakes reveal cracks in cognition. Approach them like a teacher, not a principle. Ask questions, understand what happened —then guide your team towards a better response.</p>
-
-            <p>You should encourage talk. Communication illuminates grey areas. A back-row player overriding the setter on a poor pass must gesture and yell. A libero taking a first ball from another player must make her presence known. Talk helps with assurances and audibles, but coordination arises from a tempered system.</p>
-
-          </div>
-
-          <nav class="level is-mobile">
-            <div class="level-left">
-              <div class="level-item">
-                <div>
-                  <p>Draft: <a href="https://github.com/eli1797/Learning_Vue/commits/dev/blog/src/views/Blog.vue">2</a></p>
-                </div>
-              </div>
-            </div>
-            <div class="level-right">
-              <div class="level-item">
-                <div>
-                  <p>Last edited: October 21, 2020</p>
-                </div>
-              </div>
-            </div>
-          </nav>
-        </div>
-      </article>
-
       <article id="progress" class="section pl-0">
         <div class="container">
           <h1 class="title">Progress</h1>

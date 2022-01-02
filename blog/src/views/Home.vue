@@ -7,9 +7,6 @@
         <p class="subtitle">
           {{ this.randomPhrases[Math.floor(Math.random() * this.randomPhrases.length)] }}
         </p>
-        <!-- <div class="notification">
-          Welcome to my site. I write data-driven, opinionated reflections on volleyball, learning, and technology.
-        </div> -->
       </div>
     </section>
 
@@ -25,23 +22,18 @@
                   <p class="subtitle">My writing</p>
                   <br>
                 </router-link>
-                <router-link class="tile is-child notification is-warning" to="/work">
-                  <p class="title">Work</p>
-                  <p class="subtitle">Projects, ideas, questions, etc.</p>
-                  <br>
-                </router-link>
               </div>
               <div class="tile is-parent is-vertical">
-                <router-link class="tile is-child notification is-info" to="/garden">
-                  <p class="title">Garden</p>
-                  <p class="subtitle">A library of links</p>
-                  <br>
-                </router-link>
                 <router-link class="tile is-child notification is-danger" to="/about">
                   <p class="title">About</p>
                   <p class="subtitle">
                     {{ this.aboutPhrases[Math.floor(Math.random() * this.aboutPhrases.length)] }}
                   </p>
+                  <br>
+                </router-link>
+                <router-link class="tile is-child notification is-warning" to="/work">
+                  <p class="title">Work</p>
+                  <p class="subtitle">Projects, ideas, questions, etc.</p>
                   <br>
                 </router-link>
               </div>
