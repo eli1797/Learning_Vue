@@ -9,52 +9,6 @@
     </div>
 
     <div id="posts">
-      <article id="cognition" class="section pl-0">
-        <div class="container">
-          <h1 class="title">On Yelling: "Talk, call the ball"</h1>
-          <!-- <h2 class="subtitle">Team Cognition</h2> -->
-          <div class="content">
-            <p>Yelling "Talk! Call mine!" is the wrong response to a ball dropping on your court.</p>
-
-            <p>Depending on talk alone benefits only the player with the loudest voice or worst hearing. Volleyball is simply too fast for play to depend on explicit communication. You need team cognition.</p>
-
-            <p>Team cognition arises when a group has a shared mental model of what they're doing, how they'll do it, and who does what.</p>
-
-            <p>When every kid on a soccer field runs to the ball —abandoning goals, defense, and dandelions— they have a shared mental model: Get to the ball.</p>
-
-            <p>When two best friends on a basketball team only pass to each other they have a shared mental model: My friend is better and will pass back to me.</p>
-
-            <p>When your front-row setter runs to dive for a ball in deep zone five while the rest of the team watches it drop they have a shared mental model: The setter always gets the second ball.</p>
-
-            <p>Your job as a coach is not only to align mental models but to shape them. You develop a coherent strategy and evangelize it.</p>
-
-            <p>So when a ball drops, ask questions. What type of mistake was made? Many are possible. Did your players incorrectly respond to a correctly identified situation or not see a situation at all?</p>
-
-            <p>Communication is useful to navigate grey areas. A back-row player taking the second-ball set from the setter on a poor pass should gesture and yell “Mine.” A libero taking a first ball from another player needs to make their presence known. Talk helps with audibles and assurances —but it should not be the foundation of your play.</p>
-
-            <p>Mistakes of coordination reveal cracks in cognition. Be a teacher, not a principle. Take time to ask questions, come to an understanding of what happened, and guide your team to a better response.</p>
-
-          </div>
-
-          <nav class="level is-mobile">
-            <div class="level-left">
-              <div class="level-item">
-                <div>
-                  <p>Draft: Oh god its a rough rough draft</p>
-                </div>
-              </div>
-            </div>
-            <div class="level-right">
-              <div class="level-item">
-                <div>
-                  <p>Last edited: October 20, 2020</p>
-                </div>
-              </div>
-            </div>
-          </nav>
-        </div>
-      </article>
-
       <article id="progress" class="section pl-0">
         <div class="container">
           <h1 class="title">Progress</h1>
@@ -76,21 +30,17 @@
 
           <h2 class="subtitle">Work On Your Worsts</h2>
           <div class="content">
-          <p>In progress...</p>
-          <ul>
-            <li>It sucks, but the right approach (setting process oriented goals ...) makes it doable</li>
-            <li>Huge benefits, affecting other skills</li>
-            <li>Noticing vs Judgement</li>
-          </ul>
+            <p>In progress...</p>
+            <ul>
+              <li>It sucks, but the right approach (setting process oriented goals ...) makes it doable</li>
+              <li>Huge benefits, affecting other skills</li>
+              <li>Noticing vs Judgement</li>
+            </ul>
           </div>
           <h2 class="subtitle">Necessary Mistakes</h2>
           <div class="content">
-          <p>In progress...</p>
-          <ul>
-            <li>Need to make lots of mistakes to get better</li>
-            <li>Stuck in local maximum if unwilling to fail, fail, fail</li>
-            <li>Noticing vs Judgement</li>
-          </ul>
+            <p>Mistakes are a sign you're learning. Legendary improv coach Keith Johnstone says it best:</p>
+            <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JgfXUS0US9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
 
           <nav class="level is-mobile">
@@ -104,7 +54,7 @@
             <div class="level-right">
               <div class="level-item">
                 <div>
-                  <p>Last edited: October 20, 2020</p>
+                  <p>Last edited: October 28, 2020</p>
                 </div>
               </div>
             </div>

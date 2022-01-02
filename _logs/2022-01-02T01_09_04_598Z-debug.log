@@ -1,0 +1,42 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'vue-cli-service@latest',
+1 verbose cli   '--global',
+1 verbose cli   '--prefix',
+1 verbose cli   'Z:\\Documents',
+1 verbose cli   '-',
+1 verbose cli   'Hard',
+1 verbose cli   'Drive\\Projects\\Learning_Vue\\_npx\\920',
+1 verbose cli   '--loglevel',
+1 verbose cli   'error',
+1 verbose cli   '--json'
+1 verbose cli ]
+2 info using npm@6.14.12
+3 info using node@v14.16.1
+4 verbose npm-session f3eca6923909c7ed
+5 silly install loadCurrentTree
+6 silly install readGlobalPackageData
+7 silly fetchPackageMetaData error for file:Drive\Projects\Learning_Vue\_npx\920 Could not install from "Drive\Projects\Learning_Vue\_npx\920" as it does not contain a package.json file.
+8 http fetch GET 404 https://registry.npmjs.org/Hard 468ms
+9 http fetch GET 404 https://registry.npmjs.org/vue-cli-service 501ms
+10 http fetch GET 200 https://registry.npmjs.org/- 513ms
+11 http fetch GET 200 https://registry.npmjs.org/-/-/--0.0.1.tgz 38ms
+12 silly pacote tag manifest for -@latest fetched in 568ms
+13 http fetch GET 404 https://registry.npmjs.org/Hard 360ms
+14 silly fetchPackageMetaData error for Hard@latest 404 Not Found - GET https://registry.npmjs.org/Hard - Not found
+15 http fetch GET 404 https://registry.npmjs.org/vue-cli-service 358ms
+16 silly fetchPackageMetaData error for vue-cli-service@latest 404 Not Found - GET https://registry.npmjs.org/vue-cli-service - Not found
+17 timing stage:rollbackFailedOptional Completed in 0ms
+18 timing stage:runTopLevelLifecycles Completed in 875ms
+19 verbose stack Error: ENOENT: no such file or directory, open 'Z:\Documents - Hard Drive\Projects\Learning_Vue\Drive\Projects\Learning_Vue\_npx\920\package.json'
+20 verbose cwd Z:\Documents - Hard Drive\Projects\Learning_Vue
+21 verbose Windows_NT 10.0.19042
+22 verbose argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "vue-cli-service@latest" "--global" "--prefix" "Z:\\Documents" "-" "Hard" "Drive\\Projects\\Learning_Vue\\_npx\\920" "--loglevel" "error" "--json"
+23 verbose node v14.16.1
+24 verbose npm  v6.14.12
+25 error code ENOLOCAL
+26 error Could not install from "Drive\Projects\Learning_Vue\_npx\920" as it does not contain a package.json file.
+27 verbose exit [ 1, true ]

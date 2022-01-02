@@ -25,17 +25,6 @@ Vue.use(VueRouter)
     }
   },
   {
-    path: '/garden',
-    name: 'Garden',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "garden" */ '../views/Garden.vue'),
-    meta: {
-      breadcrumb: "Garden"
-    }
-  },
-  {
     path: '/blog',
     name: 'Blog',
     // route level code-splitting
@@ -44,6 +33,17 @@ Vue.use(VueRouter)
     component: () => import(/* webpackChunkName: "blog" */ '../views/Blog.vue'),
     meta: {
       breadcrumb: "Blog"
+    }
+  },
+  {
+    path: '/work',
+    name: 'Work',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "work" */ '../views/Work.vue'),
+    meta: {
+      breadcrumb: "Work"
     }
   }
 ]
