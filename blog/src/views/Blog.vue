@@ -45,7 +45,7 @@
           <h2 class="subtitle">Necessary Mistakes</h2>
           <div class="content">
             <p>Mistakes are a sign you're learning. Legendary improv coach Keith Johnstone says it best:</p>
-            <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JgfXUS0US9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/JgfXUS0US9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
 
           <nav class="level is-mobile">
