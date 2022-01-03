@@ -180,7 +180,14 @@
 
     <article id="eval" class="section pl-0">
       <div class="container">
-        <h1 class="title">How good are you at volleyball?</h1>
+        <div class="level">
+        <h1 class="title level-left">How good are you at volleyball?</h1>
+        <button v-on:click="copy('eval')" class="button level-right">
+          <span class="icon is-small">
+            <i class="fas fa-link"></i>
+          </span>
+        </button>
+        </div>
         <h2 class="subtitle">On evaluation</h2>
 
         <div class="content">
@@ -207,3 +214,20 @@
 
   </div>
 </template>
+
+
+<script>
+
+export default {
+  name: 'Blog',
+  methods: {
+    copy: function (id) {
+
+      console.log(id);
+      navigator.clipboard.writeText("https://elibailey.org/blog#" + id);
+
+      alert("Copied link");
+    }
+  },
+}
+</script>
