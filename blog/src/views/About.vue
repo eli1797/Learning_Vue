@@ -7,8 +7,8 @@
           
           <h2 class="subtitle">Now</h2>
           <div class="content">
-            <p>Living in Utah. Looking for work, doing a lot of reading, and talking many walks with the family dog.</p>
-            <p>Reading: <em>Finite and Infinite Games</em> by James P. Carse, <em>The Inner Game of Tennis</em> by W. Timothy Gallwey</p>
+            <p>Living in NYC.</p>
+            <p>Reading: (ask me on Twitter)</p>
           </div>
           <br>
 

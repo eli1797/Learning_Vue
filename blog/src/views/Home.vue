@@ -20,6 +20,14 @@
                 <router-link class="tile is-child notification is-success" to="/blog">
                   <p class="title">Blog</p>
                   <p class="subtitle">My writing</p>
+                  <!-- An unordered list of links to ids on the bloe -->
+                  <ul>
+                    <li><router-link to="/blog#talk">Talk! Call the Ball!</router-link></li>
+                    <li><router-link to="/blog#progress">Progress: Expectations Spark Frustrations</router-link></li>
+                    <li><router-link to="/blog#fundamentals">Fundamental Skills: Awareness and Technique</router-link></li>
+                    <li><router-link to="/blog#eval">How good are you at volleyball?</router-link></li>
+                  </ul>
+                      
                   <br>
                 </router-link>
               </div>
