@@ -1,5 +1,39 @@
 <template>
   <div id="posts" class="container" style="max-width: 675px">
+    <article id="wordl" class="section pl-0">
+      <div class="container">
+        <h1 class="title">Wordle and serving challenges</h1>
+        <div class="content">
+          <p>
+            My daily Wordle habit reminds me of a challenge/game from my volleyball coaching days.
+            After a short service practice (2 minutes), line everyone up to serve from one side at a target on the other.
+            Regular targets were 1) a hula-hoop in the plane of the net and 2) me sitting on the other side of the court. Players serve one at a time and get one chance.  
+            Make it very clear that each server gets one and only one attempt. Enforce it.
+          </p>
+          <p>
+            This was a favorite. Ex-professional-players-now-coaches became visibly frustrated when not allowed a second 
+            chance. Some took one anyway. 
+          </p>
+        </div>
+        <nav class="level is-mobile">
+          <div class="level-left">
+            <div class="level-item">
+              <div>
+                <p>Draft: <a href="https://github.com/eli1797/Learning_Vue/commits/dev/blog/src/views/Blog.vue">0</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="level-right">
+            <div class="level-item">
+              <div>
+                <p>Last edited: February 19, 2022</p>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </article>
+
     <article id="talk" class="section pl-0">
       <div class="container">
         <h1 class="title">Talk! Call the Ball!</h1>
