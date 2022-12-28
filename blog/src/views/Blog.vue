@@ -46,7 +46,7 @@
             <li>When two friends on a basketball team only pass to each other, they think: <i>My friend is good and passes back.</i></li>
             <li>When a team watches their front-row setter sprint to dive for a pass shanked to deep zone five, they think: <i>The setter always gets the second ball.</i></li>
           </ol>
-          <p>It’s a coach's job to develop their players’ mental models through experience and feedback. They should run more games than drills, practice tough situations, and teach the reasoning behind their system. Player’s who understand why to react a certain way excel out-of-system and play creatively (see <a href="https://youtu.be/yF4j4EHgt30?t=198" target="_blank">beach players go over on one</a> and the <a href="https://youtu.be/hAQqJDCRB80?t=147" target="_blank">Brazilian national team sets free balls directly to their outsides</a>).</p>
+          <p>It’s a coach's job to develop their players’ mental models through experience and feedback. They should run more games than drills, practice tough situations, and teach the reasoning behind their system. Players who understand why to react a certain way excel out-of-system and play creatively (see <a href="https://youtu.be/yF4j4EHgt30?t=198" target="_blank">beach players go over on one</a> and the <a href="https://youtu.be/hAQqJDCRB80?t=147" target="_blank">Brazilian national team sets free balls directly to their outsides</a>).</p>
 
           <p>I try to develop understanding by pausing games and asking questions: "If this happens, what do you think we should do? Why do you think that is?"</p>
 
@@ -58,14 +58,14 @@
           <div class="level-left">
             <div class="level-item">
               <div>
-                <p>Draft: <a href="https://github.com/eli1797/Learning_Vue/commits/dev/blog/src/views/Blog.vue">2</a></p>
+                <p>Draft: <a href="https://github.com/eli1797/Learning_Vue/commits/dev/blog/src/views/Blog.vue">3</a></p>
               </div>
             </div>
           </div>
           <div class="level-right">
             <div class="level-item">
               <div>
-                <p>Last edited: January 2, 2022</p>
+                <p>Last edited: December 27, 2022</p>
               </div>
             </div>
           </div>
